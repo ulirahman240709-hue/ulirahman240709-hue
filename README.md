@@ -1,45 +1,40 @@
 <div align="center">
 
-# 🌟 Uli_Rahman
+<img src="./BANNER.png" width="100%" alt="Uli_Rahman GitHub Banner">
 
-### 💙 Student Developer • Blue Archive Enthusiast • RPL Student
+#  Uli_Rahman
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:5B8FF9&height=180&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+### Software Engineering Student • Programmer • Blue Archive Enthusiast
 
 </div>
 
 ---
 
-## 🎓 About Me
+## 👋 About Me
 
 ```yaml
 name: Uli_Rahman
 username: ulirahman240709-hue
-location: Situbondo, East Java, Indonesia
-role: Software Engineering Student
-focus:
+school: SMK Nurul Jadid
+major: Rekayasa Perangkat Lunak (RPL)
+location: Indonesia
+
+interests:
   - Web Development
   - Programming
   - Database
   - Software Engineering
+  - Blue Archive
 ```
 
-> 💙 Learning to build things, one project at a time.
+> 💙 I am a student at SMK Nurul Jadid, learning programming and software development.
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
-### Languages & Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python" />
-</p>
-
-### Tools & Technologies
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,mysql,git,github,windows" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,git,github,vscode,windows" />
 </p>
 
 ---
@@ -49,6 +44,7 @@ focus:
 - 🌐 Web Development
 - 🐍 Python Programming
 - 🗄️ MySQL & Database Design
+- ⚡ JavaScript
 - 🔧 Git & GitHub
 - 🧩 Software Engineering
 
@@ -80,13 +76,13 @@ focus:
 
 <div align="center">
 
-### ☕ Welcome to Kivotos, Sensei!
+### 💙 Welcome to Kivotos!
 
-<img src="https://img.shields.io/badge/Blue%20Archive-%E2%9C%A8%20Sensei-74C0FC?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Blue%20Archive-%E2%9C%A8%20Kivotos-74C0FC?style=for-the-badge" />
 
 <br><br>
 
-> **"A little bit of coding, a little bit of gaming."**
+> **Code. Learn. Build. Repeat.**
 
 </div>
 
@@ -98,11 +94,18 @@ focus:
 - [ ] Improve JavaScript skills
 - [ ] Build useful database projects
 - [ ] Create a personal portfolio
-- [ ] Make my GitHub profile better
+- [ ] Learn more about software engineering
+- [ ] Make better GitHub projects
 
 ---
 
-## 📫 Find Me
+## 📌 Featured Projects
+
+> 🚧 Projects will be added here as I build them.
+
+---
+
+## 📫 Contact
 
 <div align="center">
 
@@ -118,6 +121,6 @@ focus:
 
 ### 💙 Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B8FF9,100:87CEEB&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B8FF9,100:87CEEB&height=120&section=footer" width="100%">
 
 </div>

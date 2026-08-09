@@ -2,7 +2,7 @@
 
 <img src="./BANNER.png" width="100%" alt="Uli_Rahman GitHub Banner">
 
-#  Uli_Rahman
+# Uli_Rahman
 
 ### Software Engineering Student • Programmer • Blue Archive Enthusiast
 
@@ -50,39 +50,15 @@ interests:
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ulirahman240709-hue&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=74C0FC&icon_color=74C0FC&text_color=C9D1D9" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulirahman240709-hue&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=74C0FC&text_color=C9D1D9" />
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ulirahman240709-hue&theme=tokyonight&hide_border=true&background=0D1117&ring=74C0FC&fire=74C0FC&currStreakLabel=74C0FC" />
-
-</div>
-
----
-
 ## 🎮 Blue Archive Corner
 
 <div align="center">
 
-### 💙 Welcome to Kivotos!
+### 💙 Find Me
 
-<img src="https://img.shields.io/badge/Blue%20Archive-%E2%9C%A8%20Kivotos-74C0FC?style=for-the-badge" />
+📸 **Instagram:** [u_rahman_24](https://www.instagram.com/u_rahman_24/)
 
-<br><br>
-
-> **Code. Learn. Build. Repeat.**
+💼 **LinkedIn:** [uli-rahman-7a67a6386](https://www.linkedin.com/in/uli-rahman-7a67a6386/)
 
 </div>
 
